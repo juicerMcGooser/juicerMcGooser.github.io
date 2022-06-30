@@ -1,12 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Juicer Web
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Privacy Policy
 ```markdown
-Privacy Policy
-
 
 The Word Tour application was created by Kal Anthony as an ad-supported app. Kal Anthony provides this SERVICE at no cost and it is intended for use as is.
 This page is intended to inform visitors about my policies regarding the collection, use, and disclosure of Personal Information if they choose to use my Service.
@@ -69,5 +64,3 @@ Contact Us
  
 If you have any questions or suggestions about my Privacy Policy or Application, do not hesitate to contact me at kalanthonystudio@gmail.com
 ```
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
