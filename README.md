@@ -59,4 +59,4 @@ I reserve the right to make changes to our Privacy Statement at any time. As a r
 
 **Contact Us**
  
-If you have any questions or suggestions about my Privacy Policy or Application, do not hesitate to contact me at [kalanthonystudio@gmail.com](kalanthonystudio@gmail.com)
+If you have any questions or suggestions about my Privacy Policy or Application, do not hesitate to contact me at **_kalanthonystudio@gmail.com_**
