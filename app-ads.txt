@@ -19,9 +19,9 @@ Notsy.io, 4a4dfd54-99f3-4c03-b706-c10418e59114, DIRECT
 pubmatic.com, 159855, DIRECT, 5d62403b186f2ace
 pubmatic.com, 162099, RESELLER, 5d62403b186f2ace
 #Facebook
-#Replace the Business ID below with your Facebook Business ID
 facebook.com, 1147941019271382, RESELLER, c3e20eee3f780d68
 facebook.com, 410873337645162, RESELLER, c3e20eee3f780d68
+facebook.com, 985626912148301, DIRECT, c3e20eee3f780d68
 #AdColony
 adcolony.com, fcaa373cac67c9f927aa914013b8346e, RESELLER, 1ad675c9de6b5176
 #Applovin
